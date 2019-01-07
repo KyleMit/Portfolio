@@ -1,0 +1,4 @@
+{
+    "StackOverflowAnswers": "https://api.stackexchange.com/2.2/users/1366033/answers?pagesize=99&order=desc&sort=activity&site=stackoverflow&filter=!Fcb(61J.xH9mBNKQZFc1o1euO*",
+    "StackOverflowQuestions": "https://api.stackexchange.com/2.2/users/1366033/questions?pagesize=99&order=desc&sort=activity&site=stackoverflow&filter=!gB8kbaBHiaDl5hSyghdoeUS7Ql5WWK*mc*r"
+}

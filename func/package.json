@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-functions",
+  "version": "0.1.0",
+  "description": "Lambdas to fetch and scrape API project data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleMit/Portfolio.git"
+  },
+  "author": "KyleMit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyleMit/Portfolio/issues"
+  },
+  "homepage": "https://github.com/KyleMit/Portfolio#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
