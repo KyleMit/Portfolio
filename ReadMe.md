@@ -1,5 +1,10 @@
 # Portfolio Project
 
+## UX Research
+
+* [Stackoverflow Advanced Search](https://stackoverflow.com/help/searching)
+* [Github Search](https://github.com/search/advanced)
+
 ## APIs
 
 ### Stack Overflow Answers / Questions
@@ -27,9 +32,17 @@
 
 ### Github Repos
 
+* [`/users/:username/repos`](https://developer.github.com/v3/repos/#list-user-repositories)
+* [`/repos/:owner/:repo/readme`](https://developer.github.com/v3/repos/contents/)
+
 ### JsFiddle Fiddles
 
+* [`api/user/:username/demo/list.json`](https://docs.jsfiddle.net/api/displaying-user-fiddles)
+
 ### Bloger Articles
+
+* [`blogger/v3/blogs/byurl`](https://developers.google.com/blogger/docs/3.0/reference/blogs/getByUrl?apix_params=%7B%22url%22%3A%22http%3A%2F%2Fwww.codingeverything.com%2F%22%7D)
+* [`blogger/v3/blogs/blogId/posts`](https://developers.google.com/blogger/docs/3.0/reference/posts/list?apix_params=%7B%22blogId%22%3A%228252867149515968674%22%7D)
 
 ## Node
 
@@ -38,4 +51,8 @@
 ## Javascript
 
 * [Combine Arrays](https://stackoverflow.com/a/35223022/1366033)
-* [Turn an object into query string parameters in JavaScript](https://howchoo.com/g/nwywodhkndm/how-to-turn-an-object-into-query-string-parameters-in-javascript)
+* [Turn an object into query string parameters in JavaScript](https://stackoverflow.com/a/34209399/1366033)
+
+## Visual Studio
+
+* [Debuggin Node in VS](https://github.com/nodejs/node/issues/15464)
